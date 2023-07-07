@@ -1,3 +1,2 @@
-Completed my Undergraduation in 2018 .
-Worked as Software engineer for 3.5 years.
-I am currently pursuing my Masters in Computer sciences from Northwest Missouri State University
+Worked as Software Engineer for 3.5 years.
+Currently pursuing my Masters in Computer sciences from Northwest Missouri State University
